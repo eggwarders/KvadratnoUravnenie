@@ -12,11 +12,11 @@ namespace KvadratnoUravnenie.View
         public Data data = new Data();
         public void GetValue()
         {
-            Console.Write("a = ");
+            Console.Write("Input a = ");
             data.A = int.Parse(Console.ReadLine());
-            Console.Write("b = ");
+            Console.Write("Input b = ");
             data.B = int.Parse(Console.ReadLine());
-            Console.Write("c = ");
+            Console.Write("Input c = ");
             data.C = int.Parse(Console.ReadLine());
         }
         public void ShowResult() 
@@ -25,3 +25,4 @@ namespace KvadratnoUravnenie.View
         }
     }
 }
+
