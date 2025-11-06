@@ -1,0 +1,14 @@
+C:\Users\11d\source\repos\KvadratnoUravnenie\bin\Debug\net8.0\KvadratnoUravnenie.exe
+C:\Users\11d\source\repos\KvadratnoUravnenie\bin\Debug\net8.0\KvadratnoUravnenie.deps.json
+C:\Users\11d\source\repos\KvadratnoUravnenie\bin\Debug\net8.0\KvadratnoUravnenie.runtimeconfig.json
+C:\Users\11d\source\repos\KvadratnoUravnenie\bin\Debug\net8.0\KvadratnoUravnenie.dll
+C:\Users\11d\source\repos\KvadratnoUravnenie\bin\Debug\net8.0\KvadratnoUravnenie.pdb
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\KvadratnoUravnenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\KvadratnoUravnenie.AssemblyInfoInputs.cache
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\KvadratnoUravnenie.AssemblyInfo.cs
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\KvadratnoUravnenie.csproj.CoreCompileInputs.cache
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\KvadratnoUravnenie.dll
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\refint\KvadratnoUravnenie.dll
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\KvadratnoUravnenie.pdb
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\KvadratnoUravnenie.genruntimeconfig.cache
+C:\Users\11d\source\repos\KvadratnoUravnenie\obj\Debug\net8.0\ref\KvadratnoUravnenie.dll
